@@ -33,6 +33,6 @@ Agradeço pela sua atenção atenciosamente Leonardo Carrera da Silva
   <a href = "mailto:leonardocarrerasilva.ads@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/LeonardoCarreraSilva/workflows/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LeonardoCarreraSilva/LeonardoCarreraSilva/blob/output/github-contribution-grid-snake.svg)
  
 </div>
